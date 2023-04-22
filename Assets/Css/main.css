@@ -47,7 +47,7 @@
 
 .img-wrapper {
     border-radius: 1rem 0 0 1rem;
-    background-image: url("/Assets/Images/image-product-desktop.jpg");
+    background-image: url("../../Assets/Images/image-product-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -163,7 +163,7 @@
     }
 
     .img-wrapper {
-        background-image: url("/Assets/Images/image-product-mobile.jpg");
+        background-image: url("../../Assets/Images/image-product-mobile.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
